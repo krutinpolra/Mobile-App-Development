@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">assignment2</string>
+    <string name="Newsletter_Subscription">Newsletter Subscription</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="Registration_Form">Registration Form</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Other">Other</string>
+    <string name="Receive_Family">Receive Family Event Emails</string>
+    <string name="Terms_And_Condition">Agree to Terms and Conditions</string>
+    <string name="Register">Register</string>
+    <string name="Activity_Two">Go to Activity Two</string>
+    <string name="subscription_thank_you">Thank you for subscribing!</string>
+
+</resources>

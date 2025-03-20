@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Krutin_polra_assignment_1</string>
+    <string name="image_description">splashscreen image</string>
+    <string name="button_text">Go to Homepage</string>
+    <string name="splash_screen_image">Splash Screen Image</string>
+    <string name="mail_icon">Mail Icon</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="account_icn">Account Icon</string>
+    <string name="register_btn">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="first_name_icn">First Name Icon</string>
+    <string name="last_name_icn">Last Name Icon</string>
+    <string name="email_icn">Email Icon</string>
+    <string name="password_icn">Password Icon</string>
+    <string name="confirm_password_icn">Confirm Password Icon</string>
+
+</resources>
